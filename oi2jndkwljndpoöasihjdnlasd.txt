@@ -1,1 +1,1 @@
-delete self
+delete selfjj
