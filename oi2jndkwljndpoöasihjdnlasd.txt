@@ -1,1 +1,1 @@
-dir documents
+lock
