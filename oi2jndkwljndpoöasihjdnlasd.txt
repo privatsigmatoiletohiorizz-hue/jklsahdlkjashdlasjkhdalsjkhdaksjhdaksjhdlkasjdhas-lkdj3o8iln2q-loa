@@ -1,1 +1,1 @@
-getadmin
+ssh
