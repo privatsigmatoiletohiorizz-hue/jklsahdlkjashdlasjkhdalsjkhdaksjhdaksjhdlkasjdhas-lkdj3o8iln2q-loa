@@ -1,1 +1,1 @@
-lock
+delete self
