@@ -1,1 +1,1 @@
-getip
+dir documents
