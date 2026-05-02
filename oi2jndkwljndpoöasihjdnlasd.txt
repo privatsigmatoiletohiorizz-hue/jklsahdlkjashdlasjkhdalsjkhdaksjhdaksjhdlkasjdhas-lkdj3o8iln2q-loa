@@ -1,1 +1,1 @@
-ssh
+Install ssh
